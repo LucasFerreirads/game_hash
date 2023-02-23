@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_hash", "game_hash\game_hash.csproj", "{2880B213-F219-4DA3-A206-E6CF7106C960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2880B213-F219-4DA3-A206-E6CF7106C960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2880B213-F219-4DA3-A206-E6CF7106C960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2880B213-F219-4DA3-A206-E6CF7106C960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2880B213-F219-4DA3-A206-E6CF7106C960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EE9981-B7CD-46C3-8F90-767151C8F5BA}
+	EndGlobalSection
+EndGlobal

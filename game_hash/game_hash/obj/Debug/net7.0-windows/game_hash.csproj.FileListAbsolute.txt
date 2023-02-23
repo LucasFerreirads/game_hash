@@ -1,0 +1,42 @@
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.exe
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.deps.json
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.runtimeconfig.json
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.pdb
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash_MarkupCompile.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash_MarkupCompile.lref
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.g.resources
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.AssemblyInfo.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\refint\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.pdb
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.genruntimeconfig.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\obj\Debug\net7.0-windows\ref\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.exe
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.deps.json
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.runtimeconfig.json
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\bin\Debug\net7.0-windows\game_hash.pdb
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash_MarkupCompile.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash_MarkupCompile.lref
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.g.resources
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.AssemblyInfo.cs
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\refint\game_hash.dll
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.pdb
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\game_hash.genruntimeconfig.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\mini_projetos\game_hash\game_hash\game_hash\obj\Debug\net7.0-windows\ref\game_hash.dll

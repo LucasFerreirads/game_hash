@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = game_hash_w5kxd4dx_wpftmp
+build_property.ProjectDir = C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M04\Aula 08.1\b2b-t02-m03-aula08-1\Cronometro_v2\game_hash\game_hash\
