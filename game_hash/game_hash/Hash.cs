@@ -11,7 +11,12 @@ namespace game_hash
 {
     internal class Hash
     {
-        public bool clicked { get; set; }
+        public int id { get; set; }
         public bool playerGame { get; set; }
+
+
+        public bool clicked = false;
+        public bool Clicked{ get; set; }
+
     }
 }
